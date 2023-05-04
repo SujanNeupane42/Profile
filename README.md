@@ -18,16 +18,15 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 
 >
 
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771031-dac9a9c3-d3e6-45d6-82d8-07e2faae67b5.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771035-ba7a2dd1-1d7e-48d2-8c95-057bef54dc6b.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771039-6776d70c-1a1b-4d44-a996-dfa266c2d25e.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771042-8225d5b8-b2b5-483d-821d-12d5cb9f21da.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771043-510f64b5-b107-468c-96d1-74cbde07f296.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771046-df40fdd7-f2d2-4e24-9f04-f1c3090c540d.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771047-3a4b4d4a-6ee4-4c2f-a76e-2348f9b4416c.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771049-0c714f4e-4b3a-4cd4-9e92-cad1d75bb2e8.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771050-7e8c9e07-e7df-4e6a-8f8b-f227bb59a2f2.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771052-c06a5bae-9313-49e9-9909-1a14dc80e2d2.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/84787320/132771054-5d5de5b5-5e85-48a3-83c3-d3b10bb857a5.png"></code>
+PyTorch: <code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/pytorch.svg"></code> https://pytorch.org/
+MySQL: <code><img height="20" src="https://raw.githubusercontent.com/docker-library/docs/c408469abbac35ad1e4a50a6618836420eb9502e/mysql/logo.png"></code> https://www.mysql.com/
+Dask: <code><img height="20" src="https://github.com/dask/dask/blob/main/docs/source/images/dask_icon.svg"></code> https://dask.org/
+GeoPandas: <code><img height="20" src="https://user-images.githubusercontent.com/36797143/80921918-6eebf600-8d71-11ea-838f-6e2193cf55f8.png"></code> https://geopandas.org/
+QGIS: <code><img height="20" src="https://camo.githubusercontent.com/60d6cf29556915a29fc6140ae0051f27f5fd6ab72b759fdb9fc36a2ec02b5fc4/68747470733a2f2f63646e2e7261776769742e636f6d2f6b6c616b61722f716769735f6c6f676f2f39613564313134612f716769732e73652d6c6f676f2d332e737667"></code> https://qgis.org/
+Python: <code><img height="20" src="https://repository-images.githubusercontent.com/201450432/e30c2880-1b5f-11eb-88ff-c7815d6109a3"></code> https://www.python.org/
+NumPy: <code><img height="20" src="https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg"></code> https://numpy.org/
+Matplotlib: <code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg"></code> https://matplotlib.org/
+Pandas: <code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code> https://pandas.pydata.org/
+Scikit-Learn: <code><img height="20" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg"></code> https://scikit-learn.org/stable/
 
 ⭐️ From [Sujan](https://github.com/SujanNeupane42)
