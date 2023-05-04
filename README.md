@@ -28,7 +28,7 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![Dask](https://img.shields.io/badge/Dask-%2300599C.svg?style=flat&logo=Dask&logoColor=white)
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-%2300599C.svg?style=flat&logo=GeoPandas&logoColor=white)
-![Dask-GeoPandas](https://img.shields.io/badge/Dask-GeoPandas-%2300599C.svg?style=flat&logo=Dask-GeoPandas&logoColor=white)
+![DaskGeoPandas](https://img.shields.io/badge/DaskGeoPandas-%2300599C.svg?style=flat&logo=DaskGeoPandas&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-%2300599C.svg?style=flat&logo=QGIS&logoColor=white)
 
 ⭐️ From [Sujan](https://github.com/SujanNeupane42)
