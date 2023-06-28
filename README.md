@@ -8,8 +8,9 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently studying computer science at Herald College, Kathmandu.
-- 🌱 I'm currently working on geospatial data related research projects.
+- 👨🏽‍💻 I recently graduated from Herald College with a degree in computer science.
+- 😀 I work as an AI developer at Code Himalaya, Lalitpur, Nepal.
+- 🌱 I'm currently working on geospatial data-related research projects.
 - 🤔 My interests include data science and machine learning
 - 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [neupanesujan420@gmail.com](neupanesujan420.com).
