@@ -34,7 +34,7 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 
 <h3>Publications</h3>
 
-1. [Effects of Aerosols on lightning activity over the Himalayan Region](https://ieeexplore.ieee.org/document/10182045) - Published in 2023 12th Asia-Pacific International Conference on Lightning (APL), Langkawi, Malaysia.
+1. [Effects of Aerosols on lightning activity over the Himalayan Region](https://ieeexplore.ieee.org/document/10182045) - Presented at the  12th Asia-Pacific International Conference on Lightning (APL), Langkawi, Malaysia in June, 2023.
 
 2. [The possible impact of atmospheric aerosol and other factors on lightning over the rugged terrain of Nepal](https://www.researchgate.net/publication/364752106_The_possible_impact_of_atmospheric_aerosol_and_other_factors_on_lightning_over_the_rugged_terrain_of_Nepal) - presented at the International Conference on Lightning Protection (ICLP 2022) in Cape Town,
 South Africa in October 2022
