@@ -37,16 +37,18 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 1. Gyawali, M., Lamsal, L., Neupane, S., Sharma, S., et al., “Cement and Brick Factories Contribute Elevated Levels of NO2
 Pollution in Nepal: Evidence of High-Resolution View from Space”, Geophys. Res. Lett, 2023 (in preparation).
 
-2. [Effects of Aerosols on lightning activity over the Himalayan Region](https://ieeexplore.ieee.org/document/10182045) - Presented at the  12th Asia-Pacific International Conference on Lightning (APL), Langkawi, Malaysia in June, 2023.
+2. Impact of thunderstorm activities on tropospheric NOx adversely affecting the climate change over Bagmati province of Nepal, Nepal Journals Online, August, 2023.
 
-3. [The possible impact of atmospheric aerosol and other factors on lightning over the rugged terrain of Nepal](https://www.researchgate.net/publication/364752106_The_possible_impact_of_atmospheric_aerosol_and_other_factors_on_lightning_over_the_rugged_terrain_of_Nepal) - presented at the International Conference on Lightning Protection (ICLP 2022) in Cape Town,
+3. [Effects of Aerosols on lightning activity over the Himalayan Region](https://ieeexplore.ieee.org/document/10182045) - Presented at the  12th Asia-Pacific International Conference on Lightning (APL), Langkawi, Malaysia in June, 2023.
+
+4. [The possible impact of atmospheric aerosol and other factors on lightning over the rugged terrain of Nepal](https://www.researchgate.net/publication/364752106_The_possible_impact_of_atmospheric_aerosol_and_other_factors_on_lightning_over_the_rugged_terrain_of_Nepal) - presented at the International Conference on Lightning Protection (ICLP 2022) in Cape Town,
 South Africa in October 2022
 
-4. [Impact of COVID-19 Lockdown on NO2 Pollution in Houston, Texas: Measured from Space and Ground](https://fugitive-emissions-journal.com/impact-of-covid-19-lockdown-on-no2-pollution-in-houston-texas-measured-from-space-and-ground/) - published in the Fugitive Emissions Journal Publisher in March 2023
+5. [Impact of COVID-19 Lockdown on NO2 Pollution in Houston, Texas: Measured from Space and Ground](https://fugitive-emissions-journal.com/impact-of-covid-19-lockdown-on-no2-pollution-in-houston-texas-measured-from-space-and-ground/) - published in the Fugitive Emissions Journal Publisher in March 2023
 
-5. "Decadal Variations of Six Criteria Air Pollutants Over Texas" - Presented at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin-Eau Claire in April 2023.
+6. "Decadal Variations of Six Criteria Air Pollutants Over Texas" - Presented at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin-Eau Claire in April 2023.
 
-6. "Trends and Variations of NO2 Pollution (2005-2019) over Texas, Viewed from the Ground and Satellite" - Presented at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin-Eau Claire in April 2023.
+7. "Trends and Variations of NO2 Pollution (2005-2019) over Texas, Viewed from the Ground and Satellite" - Presented at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin-Eau Claire in April 2023.
 
 <h3>Research Projects</h3>
 
