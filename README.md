@@ -34,23 +34,25 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 
 <h3>Publications</h3>
 
-1. Gyawali, M., Lamsal, L., Neupane, S., Sharma, S., et al., “Cement and Brick Factories Contribute Elevated Levels of NO2
+1. Lamsal, L., Neupane, S., Choi, S., Joiner, J., et al. "Rapid Satellite Nitrogen Dioxide Data Processing using Machine Learning," Atmospheric Measurement Techniques, 2024 (in preparation).
+
+2. Gyawali, M., Lamsal, L., Neupane, S., Sharma, S., et al., “Cement and Brick Factories Contribute Elevated Levels of NO2
 Pollution in Nepal: Evidence of High-Resolution View from Space”, Geophys. Res. Lett, 2023 (in preparation).
 
-2. Bhattara, K., Lamsal, L., Gyawali, M., Neupane, S., et al. "Impact of Nitrogen Dioxide (NO2) Pollution on Asthma: The Case of Louisiana State (2005-2020)," Journal of Environmental Management, 2023 (under review)
+3. Bhattara, K., Lamsal, L., Gyawali, M., Neupane, S., et al. "Impact of Nitrogen Dioxide (NO2) Pollution on Asthma: The Case of Louisiana State (2005-2020)," Journal of Environmental Management, 2023 (under review)
 
-3. [Impact of thunderstorm activities on tropospheric NOx adversely affecting the climate change over Bagmati province of Nepal](https://www.nepjol.info/index.php/SW/article/view/56866), Nepal Journals Online, August 2023.
+4. [Impact of thunderstorm activities on tropospheric NOx adversely affecting the climate change over Bagmati province of Nepal](https://www.nepjol.info/index.php/SW/article/view/56866), Nepal Journals Online, August 2023.
 
-4. [Effects of Aerosols on lightning activity over the Himalayan Region](https://ieeexplore.ieee.org/document/10182045) - Presented at the  12th Asia-Pacific International Conference on Lightning (APL), Langkawi, Malaysia in June 2023.
+5. [Effects of Aerosols on lightning activity over the Himalayan Region](https://ieeexplore.ieee.org/document/10182045) - Presented at the  12th Asia-Pacific International Conference on Lightning (APL), Langkawi, Malaysia in June 2023.
 
-5. [The possible impact of atmospheric aerosol and other factors on lightning over the rugged terrain of Nepal](https://www.researchgate.net/publication/364752106_The_possible_impact_of_atmospheric_aerosol_and_other_factors_on_lightning_over_the_rugged_terrain_of_Nepal) - presented at the International Conference on Lightning Protection (ICLP 2022) in Cape Town,
+6. [The possible impact of atmospheric aerosol and other factors on lightning over the rugged terrain of Nepal](https://www.researchgate.net/publication/364752106_The_possible_impact_of_atmospheric_aerosol_and_other_factors_on_lightning_over_the_rugged_terrain_of_Nepal) - presented at the International Conference on Lightning Protection (ICLP 2022) in Cape Town,
 South Africa in October 2022
 
-6. [Impact of COVID-19 Lockdown on NO2 Pollution in Houston, Texas: Measured from Space and Ground](https://fugitive-emissions-journal.com/impact-of-covid-19-lockdown-on-no2-pollution-in-houston-texas-measured-from-space-and-ground/) - published in the Fugitive Emissions Journal Publisher in March 2023
+7. [Impact of COVID-19 Lockdown on NO2 Pollution in Houston, Texas: Measured from Space and Ground](https://fugitive-emissions-journal.com/impact-of-covid-19-lockdown-on-no2-pollution-in-houston-texas-measured-from-space-and-ground/) - published in the Fugitive Emissions Journal Publisher in March 2023
 
-7. "Decadal Variations of Six Criteria Air Pollutants Over Texas" - Presented at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin-Eau Claire in April 2023.
+8. "Decadal Variations of Six Criteria Air Pollutants Over Texas" - Presented at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin-Eau Claire in April 2023.
 
-8. "Trends and Variations of NO2 Pollution (2005-2019) over Texas, Viewed from the Ground and Satellite" - Presented at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin-Eau Claire in April 2023.
+9. "Trends and Variations of NO2 Pollution (2005-2019) over Texas, Viewed from the Ground and Satellite" - Presented at the National Conference on Undergraduate Research (NCUR) held at the University of Wisconsin-Eau Claire in April 2023.
 
 <h3>Research Projects</h3>
 
