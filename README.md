@@ -56,6 +56,6 @@ South Africa in October 2022
 
 <h3>Research Projects</h3>
 
-I am collaborating on multiple research projects with scientists from Nepal and the United States. As a co-author, I have worked on statistical and geospatial data analysis of atmospheric data using Python libraries such as NumPy, Pandas, GeoPandas, Matplotlib, Seaborn, and Dask, as well as QGIS. Additionally, I have contributed to the retrieval and visualization of data from NASA OMI and ESA TROPOMI satellites, gaining valuable insights into research and fueling my passion for data science, machine learning, and satellite data analysis.
+I am collaborating on multiple research projects with scientists from Nepal and the United States. As a co-author, I have worked on statistical and geospatial data analysis of atmospheric data using Python libraries such as NumPy, Pandas, GeoPandas, Matplotlib, Seaborn, Dask, and QGIS. Additionally, I have contributed to the retrieval and visualization of data from NASA OMI, ESA TROPOMI, and Korean GEMS satellites, and Environment Protection Agency's (EPA) ground-based sensors, gaining valuable insights into research and fueling my passion for data science, and machine learning. I am also currently working on research projects involving retrieving satellite data products using machine learning.
 
 ⭐️ From [Sujan](https://github.com/SujanNeupane42)
