@@ -34,7 +34,7 @@ A **Computer Science Student** 🚀 from Kathmandu, Nepal.
 
 <h3>Publications</h3>
 
-1. Lamsal, L., Neupane, S., Choi, S., Joiner, J., et al. "Rapid Satellite Nitrogen Dioxide Data Processing using Machine Learning," Atmospheric Measurement Techniques, 2024 (in preparation).
+1. Lamsal, L., Neupane, S., Choi, S., Joiner, J., et al. "[Rapid Satellite Nitrogen Dioxide Data Processing using Machine Learning](https://ams.confex.com/ams/104ANNUAL/meetingapp.cgi/Paper/436815)," Atmospheric Measurement Techniques, 2024 (in preparation).
 
 2. Gyawali, M., Lamsal, L., Neupane, S., Sharma, S., et al., “Cement and Brick Factories Contribute Elevated Levels of NO2
 Pollution in Nepal: Evidence of High-Resolution View from Space”, Geophys. Res. Lett, 2024 (in preparation).
