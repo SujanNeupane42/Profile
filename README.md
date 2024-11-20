@@ -9,7 +9,7 @@ A **Computer Science graduate** 🚀 from Kathmandu, Nepal.
 **About Me!**
 
 - 👨🏽‍💻 I am currently pursuing a Master's in Data Science from UMBC.
-- 🚀 I'm working as a Research Assistant at UMBC, applying data analytics and machine learning to NASA-affiliated research projects.
+- 🚀 I'm working as a Research Assistant at UMBC, applying data analytics and machine learning to NASA-funded research projects.
 - 🤔 My interests include data science and machine learning.
 - 💬 Ask me about anything, I would love to answer!
 - 📫 Email me at [neupanesujan420@gmail.com](neupanesujan420.com).
